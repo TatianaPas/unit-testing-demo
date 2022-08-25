@@ -1,0 +1,8 @@
+C:\Users\tatja\OneDrive\Desktop\Software Testing\unit testing\UnitTestingDemo\UnitTestingDemo\bin\Debug\UnitTestingDemo.exe.config
+C:\Users\tatja\OneDrive\Desktop\Software Testing\unit testing\UnitTestingDemo\UnitTestingDemo\bin\Debug\UnitTestingDemo.exe
+C:\Users\tatja\OneDrive\Desktop\Software Testing\unit testing\UnitTestingDemo\UnitTestingDemo\bin\Debug\UnitTestingDemo.pdb
+C:\Users\tatja\OneDrive\Desktop\Software Testing\unit testing\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.csproj.AssemblyReference.cache
+C:\Users\tatja\OneDrive\Desktop\Software Testing\unit testing\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatja\OneDrive\Desktop\Software Testing\unit testing\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.csproj.CoreCompileInputs.cache
+C:\Users\tatja\OneDrive\Desktop\Software Testing\unit testing\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.exe
+C:\Users\tatja\OneDrive\Desktop\Software Testing\unit testing\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.pdb
